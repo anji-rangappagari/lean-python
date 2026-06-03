@@ -1,0 +1,29 @@
+# . Basic String Operations
+# Create a string variable name with your full name. Print:
+
+# The first character
+# The last character
+# The length of the string
+# Concatenate two strings: "Hello" and "World" with a space in between.
+
+# name = "Anjineyulu Rangappagari"
+
+# for i in range(1, 24):
+#     if i == 1:
+#         print(name[0])  # A
+# print("task completed")
+
+name = "Anjineyulu Rangappagari"
+for i in range(1, 23):
+    if i == 1:
+        print(name[0])  # A
+    if i == 22:
+        print(name[22])  # i
+
+
+name = "Anjineyulu Rangappagari"
+print("length of the string is: ", len(name))  # length of the string is:  23
+
+name1 = "Hello"
+name2 = "World"
+print(name1 + " " + name2)  # Hello World
