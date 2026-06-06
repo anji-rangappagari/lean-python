@@ -1,0 +1,9 @@
+
+Name: John Doe
+Age: 30
+Occupation: Software Developer
+
+Hobbies:
+- Reading
+- Hiking
+- Coding
